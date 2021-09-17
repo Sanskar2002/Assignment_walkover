@@ -1,0 +1,73 @@
+p{
+	color: darkblue;
+	font-size: 20px;
+	font-family: cursive;
+}
+h1{
+	font-size: 50px;
+	color: #bf360c;
+	background-color: #dfdfdf;
+}
+h2{
+	font-family: cursive;
+}
+#buttons{
+	display: inline-block;
+	font-size: 15px;
+    color: darkred;
+	background-color: #313131;
+    background-size: 10px;
+    margin: 6px;
+}
+#buttons:hover{
+	background-color: Black;
+}
+
+footer{
+	background-color: #dfdfdf;
+}
+
+section{
+	background-color: #a7a6a6;
+}
+
+form{
+	font-size: 25px;
+	background-color: #dfdfdf;
+}
+
+body{
+	background-color: #dfdfdf;
+}
+
+.widget{
+	border-top: 4px solid black;
+}
+
+.widget input{
+	display: block;
+	margin-bottom: 15px;
+	padding: 4px;
+	color: black;
+}
+
+main{
+	width: 70%;
+	display: inline-block;
+}
+
+aside{
+	display: inline-block;
+	width: 21%;
+	vertical-align: top;
+	margin: 10px;
+}
+
+button[type="submit"]{
+	font-size: 1.2rem;
+	background-color: black;
+	color: white;
+}
+aside h3{
+	font-size: 30px;
+}
